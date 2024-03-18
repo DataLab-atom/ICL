@@ -1,5 +1,5 @@
-# AAAI 2024: Optimizing Causal Information Flow in Graph Neural Networks
-This repository contains code for the AAAI 2024 paper: [Optimizing Causal Information Flow in Graph Neural Networks](#)
+# AAAI 2024: A Twist for Graph Classification: Optimizing Causal Information Flow in Graph Neural Networks
+This repository contains code for the AAAI 2024 paper: [A Twist for Graph Classification: Optimizing Causal Information Flow in Graph Neural Networks](#)
 
 ## Dependencies
 
