@@ -40,3 +40,10 @@ python main_syn.py --model CausalGAT --bias 0.7 --train_model mgda
 ## Data download
 dir datasets can be get in my paper [dir_data_geter](https://github.com/haibin65535/temp/tree/main/dir_data_geter),
 TU datasets and syn datasets can be downloaded when you run ``main_real.py`` and ``main_syn.py``.
+
+```
+@article{Zhao_Wang_Wen_Zhang_Zhou_Wang_2024, title={A Twist for Graph Classification: Optimizing Causal Information Flow in Graph Neural Networks}, volume={38}, url={https://ojs.aaai.org/index.php/AAAI/article/view/29648}, DOI={10.1609/aaai.v38i15.29648}, number={15}, journal={Proceedings of the AAAI Conference on Artificial Intelligence}, author={Zhao, Zhe and Wang, Pengkun and Wen, Haibin and Zhang, Yudong and Zhou, Zhengyang and Wang, Yang}, year={2024}, month={Mar.}, pages={17042-17050} }
+```
+
+
+
