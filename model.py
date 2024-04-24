@@ -223,7 +223,6 @@ class CO(torch.nn.Module):
         x = self.fc1_bn_co(x)
         x = self.fc1_co(x)
         x = F.elu(x)
-        x = F.elu(x)
         x = self.fc2_bn_co(x)
         x = self.fc2_co(x)
         x_logis = F.log_softmax(x, dim=-1)
